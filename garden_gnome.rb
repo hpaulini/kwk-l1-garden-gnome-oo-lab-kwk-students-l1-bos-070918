@@ -2,8 +2,8 @@
 
 class GardenGnome
   
-  attr_reader :name
+  attr_reader :name, :age
   
-  attr_accessor :name
+  attr_accessor :name, :age
   
 end
