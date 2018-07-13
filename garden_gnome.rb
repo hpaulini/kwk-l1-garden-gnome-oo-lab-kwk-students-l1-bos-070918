@@ -4,4 +4,6 @@ class GardenGnome
   
   attr_reader :name
   
+  
+  
 end
