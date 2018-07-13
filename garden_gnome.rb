@@ -19,4 +19,7 @@ class GardenGnome
     "GNARLY!!!"
   end
   
+  def introduce_self
+    "Hello humans, my name is "
+  end
 end
